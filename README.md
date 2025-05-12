@@ -12,9 +12,9 @@ Dieses System nutzt KI, um dein Lernen maximal effizient und motivierend zu gest
 
 **So funktioniert es:**
 
-1.  **Definiere deine Ziele.**
-2.  **Erfasse deinen aktuellen Wissensstand.**
-3.  **Lege deine Lern- und Projekt-Themen fest.**
+1.  **Nimm das File Dozenten-Voralge und gib es der KI deiner Wahl**
+2.  **Sag dieser KI, dass du mit dieser Struktur Thema "XY" lernen möchtest**
+3.  **Lass dir dann die überarbeitete themenspezifische Vorlage geben und starte damit einen neuen Chat**
 4.  **Durchlaufe Lerneinheiten (LE) und Wiederholungseinheiten (WLE).**
 5.  **Wende dein Wissen in Projekten an.**
 6.  **Sammle XP, steige Level auf und verdiene Badges!**
